@@ -194,7 +194,7 @@ Month 6: Launch community competitions for designers to upload templates
 
 7. Team
 
-Andrii – Founder, Digital Marketing Specialist (18 years, 100+ crypto blogger contacts, Web3 project launches)
+Founder, Digital Marketing Specialist (18 years, 500+ crypto blogger contacts, Web3 project launches)
 
 Frontend Developer – React.js specialist
 
