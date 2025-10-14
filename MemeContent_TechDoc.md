@@ -204,7 +204,7 @@ Motion Designer – Viral crypto content production
 
 DevOps – Infrastructure, CI/CD, scalability
 
-8. Budget Use Case (Grant Request)
+8. Budget Use Case
 
 Development: Backend, frontend, rendering engine
 
