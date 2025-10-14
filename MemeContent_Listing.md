@@ -68,8 +68,6 @@ Covers 12 months of development, AI creative production, ecosystem expansion, an
 ## 4. Minimum Raise Amount
 **$750,000 USD**
 
-**Target Raise: $10,000,000 USD** 
-
 Supports full-scale ecosystem expansion, AI infrastructure growth, and multi-platform integrations with Solana partners.
 Includes a 20% buffer for liquidity provision and unforeseen operational costs.
 
@@ -98,9 +96,7 @@ Includes a 20% buffer for liquidity provision and unforeseen operational costs.
 | Team & Advisors          | 20% |   20B *(12-month cliff, 36-month linear vesting)* |
 
 **Total Supply:** 100,000,000,000 MEMCOT  
-**ICO Price:** $0.00002  
-**Initial Market Cap (at TGE):** ~$300,000  
-**Fully Diluted Valuation (FDV):** $2,000,000  
+**ICO Price:** $0.00002 
 
 **Unlock Schedule:**
 
