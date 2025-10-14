@@ -14,7 +14,7 @@
 
 
 ### Long Version
-**MemeContent** is building Solana’s meme-marketing backbone — an AI-driven platform that helps memecoins go viral and sustain their hype.
+**MemeContent** is building the meme-marketing infrastructure for Solana — an AI-powered platform that helps memecoins go viral, stay relevant, and expand community growth..
 
 **Core Components:**
 - **M-FilterApp:** AI video and filter generator for meme marketing.  
