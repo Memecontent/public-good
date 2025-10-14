@@ -61,7 +61,7 @@ Covers 12 months of development, AI creative production, ecosystem expansion, an
 
 ## 3. Project and Token Image
 
-- **Image:** 🔗 [Google Drive Link](https://drive.google.com/drive/folders/1TYJd7Bg1FzpJRtd9zWdDxOILZyV-F-p6?usp=sharing)
+- **Project Image:** 🔗 [Google Drive Link](https://drive.google.com/drive/folders/1TYJd7Bg1FzpJRtd9zWdDxOILZyV-F-p6?usp=sharing)
 
 ---
 
