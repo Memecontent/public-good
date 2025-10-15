@@ -66,7 +66,6 @@ Covers 12 months of development, AI creative production, ecosystem expansion, an
 ---
 
 ## 4. Minimum Raise Amount
-**Target Raise:** $2,000,000 USD
 **Minimum Raise:** $750,000 USD
 
 💡 Includes a 20% buffer for liquidity and operational reserves.
