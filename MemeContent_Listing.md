@@ -8,25 +8,25 @@
 **MemeContent** — Solana’s viral meme marketing engine. AI-generated ads helping memecoins go viral and live longer.
 
 ### TL;DR
-🧠 MemeContent is the meme-marketing layer of Solana — building viral AI tools, empowering creators, and extending meme lifecycles.  
+🧠 MemeContent is building the meme-marketing layer of Solana — an AI-powered platform that helps memecoins go viral, stay relevant, and expand their community growth.  
 
 ---
 
 
 ### Long Version
-**MemeContent** is building the meme-marketing infrastructure for Solana — an AI-powered platform that helps memecoins go viral, stay relevant, and expand community growth..
+**MemeContent** is the meme-marketing infrastructure for the Solana ecosystem — an AI platform designed to boost meme project visibility, longevity, and user engagement...
 
 **Core Components:**
-- **M-FilterApp:** AI video and filter generator for meme marketing.  
-- **M-DegenHub:** Web3 creator hub connecting meme projects and influencers.  
-- **M-DAO:** Decentralized incubator funding and promoting new viral coins.  
+- **M-FilterApp:** AI-driven video and filter generator for meme marketing.  
+- **M-DegenHub:** Creator hub connecting meme projects, influencers, and marketers.  
+- **M-DAO:** Decentralized incubator supporting viral crypto projects through grants and collaborations.  
 
 **Mission:**  
-To extend the lifespan of meme projects, empower creators, and establish Solana as the home of the next generation of viral crypto culture.
+To empower creators, extend the lifespan of meme projects, and establish Solana as the home of the next generation of viral crypto culture..
 
 **Why It Matters:**  
-Most Solana memecoins lose traction within days due to a lack of marketing and creative content.  
-MemeContent provides tools that keep projects relevant, attract users, and reinforce Solana’s position as the center of community-driven innovation.
+90% of Solana memecoins lose traction within days due to the lack of marketing and creative content.
+MemeContent offers ready-to-use tools to keep projects alive longer, attract users, and strengthen Solana’s cultural influence in the Web3 ecosystem..
 
 **Learn More:**
 - Website: [https://memecontent.com](https://memecontent.com)  
@@ -61,15 +61,16 @@ Covers 12 months of development, AI creative production, ecosystem expansion, an
 
 ## 3. Project and Token Image
 
-- **Project Image:** 🔗 [Google Drive Link](https://drive.google.com/drive/folders/1TYJd7Bg1FzpJRtd9zWdDxOILZyV-F-p6?usp=sharing)
+- **Visual Assets:** 🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1TYJd7Bg1FzpJRtd9zWdDxOILZyV-F-p6?usp=sharing)
 
 ---
 
 ## 4. Minimum Raise Amount
-**$750,000 USD**
+**Target Raise:** $2,000,000 USD
+**Minimum Raise:** $750,000 USD
 
-Supports full-scale ecosystem expansion, AI infrastructure growth, and multi-platform integrations with Solana partners.
-Includes a 20% buffer for liquidity provision and unforeseen operational costs.
+💡 Includes a 20% buffer for liquidity and operational reserves.
+Funds will cover development, AI scaling, creative production, and partnerships over 12 months.
 
 ---
 
@@ -100,36 +101,31 @@ Includes a 20% buffer for liquidity provision and unforeseen operational costs.
 
 **Unlock Schedule:**
 
-- 2x price  
-- 4x price  
-- 8x price  
-- 16x price  
-- 32x price  
-
-> **Minimum Unlock Time:** 18 months  
-> **TWAP Rule:** 3-month average price required for unlock
+Performance package unlocks progressively at 2x, 4x, 8x, 16x, and 32x the ICO price.
+> **Minimum Unlock Time:** 18 months post-ICO  
+> **TWAP Rule:** 3-month average price confirmation required before unlock
 
 ---
 
 ## 7. Intellectual Property
-All IP rights, software assets, and domain properties will be fully transferred to **MemeContent DAO** upon token launch and governance activation, including.
+All intellectual property will be transferred to MemeContent DAO post-launch, including:
+
 - Domain: [memecontent.com](https://memecontent.com)  
-- Backend & Source Code: Node.js, FFmpeg infrastructure  
+- Backend & Source Code: Node.js, FFmpeg video rendering infrastructure  
 - UI/UX Design & Frontend: Figma + React  
 - Socials: @memecontentcom (X, Instagram, TikTok, YouTube)  
 - Trademark rights for “MemeContent”  
-- Creative template and video library
+- AI Templates & Video Libraries
 
 ---
 
 ## 8. Contact
 
 **Email:**  
-- Let’s chat: hi@memecontent.com
-- Founder MemeContent DAO: founder@memecontent.com
-- Website: [memecontent.com](https://memecontent.com) 
-
+- General Inquiries: hi@memecontent.com
+- Founder: founder@memecontent.com
+- Website: [memecontent.com](https://memecontent.com)
 ---
 
-**MemeContent** — Building the meme-marketing infrastructure for Solana.  
-Focused on sustainability, creativity, and community.
+**🧠 MemeContent** — Building the meme-marketing infrastructure for Solana..  
+Empowering creators, sustaining projects, and driving the viral culture of Web3..
