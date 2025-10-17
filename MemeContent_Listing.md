@@ -1,4 +1,4 @@
-# MemeContent — Solana Meme Marketing Infrastructure
+# MemeContent — Meme Marketing Infrastructure
 
 ---
 
