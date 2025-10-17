@@ -110,12 +110,13 @@ All intellectual property will be transferred to MemeContent DAO post-launch, in
 - AI Templates & Video Libraries
 
 **DAO Governance Structure**
-Phase 1 (0–12 months): Governance is managed by a 5-member multisig (3/5 signatures required) including the founder, CTO, creative lead, strategic advisor, and community representative.
 
-Phase 2 (after 12 months): Transition to full on-chain DAO governance via MEMCOT governance tokens.
+**Phase 1:** (0–12 months): Governance is managed by a 5-member multisig (3/5 signatures required) including the founder, CTO, creative lead, strategic advisor, and community representative.
+
+**Phase 2:** (after 12 months): Transition to full on-chain DAO governance via MEMCOT governance tokens.
 - Minimum quorum: 15%
 - Approval threshold: 60% votes “For”
-- DAO platform: Realms (Solana)
+- DAO platform: Metadao
 - Treasury managed transparently through DAO smart contracts
 
 ---
