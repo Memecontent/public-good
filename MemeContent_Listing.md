@@ -31,7 +31,7 @@ MemeContent offers ready-to-use tools to keep projects alive longer, attract use
 **Learn More:**
 - Website: [https://memecontent.com](https://memecontent.com)  
 - API Docs: [API Overview](https://memecontent.com/api/docs/), [Health](https://memecontent.com/api/health), [Videos](https://memecontent.com/api/videos)  
-- Socials: [X (Twitter)](https://x.com/memecontent_com) • [TikTok](https://www.tiktok.com/@memecontent_com)  
+- Socials: [X (Twitter)](https://x.com/memecontent_com) • [TikTok](https://www.tiktok.com/@memecontent_com) • [Instagram](https://www.instagram.com/memecontent_com/) • [YouTube](https://www.youtube.com/@memecontent_com)
 - TechDoc: [GitHub Link](https://github.com/Memecontent/public-good/blob/a59f6db360590dd064845f869f55611074bb7d4f/MemeContent_TechDoc.md)  
 - Pitch: [Pitch PDF](https://github.com/Memecontent/public-good/blob/a59f6db360590dd064845f869f55611074bb7d4f/Pitch.pdf)
 
