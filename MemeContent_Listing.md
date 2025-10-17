@@ -96,7 +96,6 @@ Funds will cover development, AI scaling, creative production, and partnerships 
 | Team & Advisors          | 20% |   20B *(12-month cliff, 36-month linear vesting)* |
 
 **Total Supply:** 100,000,000,000 MEMCOT  
-**ICO Price:** $0.00002 
 
 **Unlock Schedule:**
 
