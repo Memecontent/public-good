@@ -62,7 +62,7 @@ MemeContent offers ready-to-use tools to keep projects alive longer, attract use
 ## 4. Minimum Raise Amount
 **Minimum Raise:** $1,250,000
 
-💡 Includes a 20% buffer for liquidity and operational reserves.
+💡 Approximately $250,000 (20%) is allocated for liquidity provisioning and market stability post-ICO.
 Funds will cover development, AI scaling, creative production, and partnerships over 12 months.
 
 ---
@@ -116,6 +116,8 @@ All intellectual property will be transferred to MemeContent DAO post-launch, in
 **Email:**  
 - General Inquiries: hi@memecontent.com
 - Founder: founder@memecontent.com
+
+**Website:**  
 - Website: [memecontent.com](https://memecontent.com)
 ---
 
