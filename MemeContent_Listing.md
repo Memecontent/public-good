@@ -19,7 +19,8 @@
 **Core Components:**
 - **M-FilterApp:** AI-driven video and filter generator for meme marketing.  
 - **M-DegenHub:** Creator hub connecting meme projects, influencers, and marketers.  
-- **M-DAO:** Decentralized incubator supporting viral crypto projects through grants and collaborations.  
+- **M-DAO:** Decentralized incubator supporting viral crypto projects through grants and collaborations.
+- **M-Producer:** Production and promotion of new memecoins, handling launch campaigns and marketing strategies.  
 
 **Mission:**  
 To empower creators, extend the lifespan of meme projects, and establish Solana as the home of the next generation of viral crypto culture..
