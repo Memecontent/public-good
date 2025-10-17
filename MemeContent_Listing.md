@@ -38,7 +38,7 @@ MemeContent offers ready-to-use tools to keep projects alive longer, attract use
 ---
 
 ### Funding Goal
-**Minimum Raise:** $750,000 USD
+**Minimum Raise:** $1,250,000 USD
 
 Covers 12 months of development, AI creative production, ecosystem expansion, and liquidity support.
 
