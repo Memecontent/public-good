@@ -60,7 +60,7 @@ MemeContent offers ready-to-use tools to keep projects alive longer, attract use
 ---
 
 ## 4. Minimum Raise Amount
-**Minimum Raise:** $1,250,000 USD
+**Minimum Raise:** $1,250,000
 
 💡 Includes a 20% buffer for liquidity and operational reserves.
 Funds will cover development, AI scaling, creative production, and partnerships over 12 months.
