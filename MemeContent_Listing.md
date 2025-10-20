@@ -80,13 +80,13 @@ Funds will cover development, AI scaling, creative production, and partnerships 
 
 ## 6. Performance Package Configuration
 
-| Allocation               |  %  |  Tokens  |
-|--------------------------|-----|----------|            
-| ICO Allocation           | 10% |   10B    |
-| Liquidity                | 5%  |   5B     |
-| Performance Package      | 15% |   15B    |
-| Ecosystem + Rewards      | 30% |   30B    |
-| Marketing + Partnerships | 20% |   20B    |
+| Allocation               |  %  |  Tokens                                           |
+|--------------------------|-----|---------------------------------------------------|            
+| ICO Allocation           | 10% |   10B                                             |
+| Liquidity                | 5%  |   5B                                              |
+| Performance Package      | 15% |   15B *(Unlocks based on performance milestones)* |
+| Ecosystem + Rewards      | 30% |   30B                                             |
+| Marketing + Partnerships | 20% |   20B                                             |
 | Team & Advisors          | 20% |   20B *(12-month cliff, 36-month linear vesting)* |
 
 **Total Supply:** 100,000,000,000 MEMCOT  
